@@ -16,4 +16,4 @@ This study investigates the molecular and cellular mechanisms underlying cardiac
 ## Data and Code Availability
 The snRNAseq data reported in this study have been deposited in the European Genome-phenome Archive (EGA) under the dataset identifier EGAS00001005174.
 The bulk RNA-sequencing data are available in the European Nucleotide Archive (ENA) under the dataset identifier PRJNA353755.
-All code related to my contributions—including preprocessing, analysis, and figure generation (e.g., Figure 3C and Supplementary Figure 1F)—is available here to ensure full reproducibility.
+All code related to my contributions—including preprocessing, analysis, and figure generation—is available here to ensure full reproducibility.
