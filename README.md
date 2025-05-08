@@ -7,10 +7,8 @@ This study investigates the molecular and cellular mechanisms underlying cardiac
 
 ## My Contributions
 - Performed analysis revealing a transcriptional response dominated by viral signaling pathways in cardiomyocytes and fibroblasts, the two most abundant cell types in our *in vitro* dataset (Figure 3C).
-
 Run `code/Mapping_and_annotating_query_datasets.R` and `code/Integrating-stimulated-versus-control.R`
 - Following data preprocessing, cleaning and cell type characterization, dimensionality reduction of snRNAseq data was performed to identify a distinct sub-cluster of *in vitro* cardiac organoids closely aligned with adult human ventricular cardiomyocytes. (Gilsbach et al., 2018; Supplementary Figure 1F).
-
 Run `code/Gilsbach2018Nature_Bulk.R` and `code/Hudson_maturehCOs_CTRL_snRNA.R`
 
 ## Contribution Significance
